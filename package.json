@@ -1,0 +1,21 @@
+{
+  "name": "inventorymgmnt",
+  "version": "1.0.0",
+  "description": "Inventory managment system",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "database",
+    "managment",
+    "inventory"
+  ],
+  "author": "Tadewos Bellete",
+  "license": "ISC",
+  "dependencies": {
+    "electron-store": "^2.0.0",
+    "jquery": "^3.3.1",
+    "nedb": "^1.8.0"
+  }
+}
